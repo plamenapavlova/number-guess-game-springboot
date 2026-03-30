@@ -24,17 +24,23 @@ Java • Spring Boot • MVC • Thymeleaf • Maven
 5. The game keeps track of how many attempts have been made
 
 ## Screenshots
-**Initial guess:**
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/e9c09622-4adc-48e9-bf07-dcbd41373ef7" />
-**Result:**
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/0cddecf0-1522-4856-a69c-0c3997d7f2e7" />
-**Second try:**
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/29ae69f3-e52a-4eca-825b-b69b86206d0f" />
-**Result:**
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/56c18287-64d4-4ea1-a25b-20b73df55cf0" />
-**Third try:**
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/6e10f20e-9fcb-46cd-9448-2b9b59618be9" />
-**Result:**
+
+**Initial guess:**  
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/e9c09622-4adc-48e9-bf07-dcbd41373ef7" /><br>
+
+**Result:**  
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/0cddecf0-1522-4856-a69c-0c3997d7f2e7" /><br>
+
+**Second try:**  
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/29ae69f3-e52a-4eca-825b-b69b86206d0f" /><br>
+
+**Result:**  
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/56c18287-64d4-4ea1-a25b-20b73df55cf0" /><br>
+
+**Third try:**  
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/6e10f20e-9fcb-46cd-9448-2b9b59618be9" /><br>
+
+**Result:**  
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/2fdd038e-dc3c-482f-822b-36d4b003ef6f" />
 
 
