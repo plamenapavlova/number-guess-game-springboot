@@ -25,23 +25,23 @@ Java • Spring Boot • MVC • Thymeleaf • Maven
 
 ## Screenshots
 
-**Initial guess:**  
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/e9c09622-4adc-48e9-bf07-dcbd41373ef7" /><br>
+**Initial guess:**
+<p><img width="450" src="https://github.com/user-attachments/assets/e9c09622-4adc-48e9-bf07-dcbd41373ef7"></p>
 
-**Result:**  
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/0cddecf0-1522-4856-a69c-0c3997d7f2e7" /><br>
+**Result:**
+<p><img width="450" src="https://github.com/user-attachments/assets/0cddecf0-1522-4856-a69c-0c3997d7f2e7"></p>
 
-**Second try:**  
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/29ae69f3-e52a-4eca-825b-b69b86206d0f" /><br>
+**Second try:**
+<p><img width="450" src="https://github.com/user-attachments/assets/29ae69f3-e52a-4eca-825b-b69b86206d0f"></p>
 
-**Result:**  
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/56c18287-64d4-4ea1-a25b-20b73df55cf0" /><br>
+**Result:**
+<p><img width="450" src="https://github.com/user-attachments/assets/56c18287-64d4-4ea1-a25b-20b73df55cf0"></p>
 
-**Third try:**  
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/6e10f20e-9fcb-46cd-9448-2b9b59618be9" /><br>
+**Third try:**
+<p><img width="450" src="https://github.com/user-attachments/assets/6e10f20e-9fcb-46cd-9448-2b9b59618be9"></p>
 
-**Result:**  
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/2fdd038e-dc3c-482f-822b-36d4b003ef6f" />
+**Result:**
+<p><img width="450" src="https://github.com/user-attachments/assets/2fdd038e-dc3c-482f-822b-36d4b003ef6f"></p>
 
 
 
